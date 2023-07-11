@@ -1,4 +1,23 @@
-https://www.youtube.com/watch?v=0gks6ceq4eQ
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Favorite Therapy Websites</title>
+</head>
+<body>
+  <h1>TedTalks</h1>
+  
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=0gks6ceq4eQ">Website 1</a></li>
+    <li><a href="https://www.example2.com">Website 2</a></li>
+    <li><a href="https://www.example3.com">Website 3</a></li>
+    <li><a href="https://www.example4.com">Website 4</a></li>
+    <li><a href="https://www.example5.com">Website 5</a></li>
+  </ul>
+  
+</body>
+</html>
+
+
 https://www.youtube.com/watch?v=4q1dgn_C0AU – The Surprising Science of Happiness
 https://youtu.be/rni41c9iq54 - How to Practice Emotional Hygiene
 https://youtu.be/rni41c9iq54 - Depression is a Disease of Civilization
